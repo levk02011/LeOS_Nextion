@@ -1,2 +1,0 @@
-ExitCMD - Вихід
-moreIfn - Версія ОС
